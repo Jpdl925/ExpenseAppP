@@ -135,3 +135,4 @@ C:\Users\jtpg9\Documents\Academy\Level4\Projects\ExpenseAppP\api\obj\Debug\net8.
 C:\Users\jtpg9\Documents\Academy\Level4\Projects\ExpenseAppP\api\obj\Debug\net8.0\API.pdb
 C:\Users\jtpg9\Documents\Academy\Level4\Projects\ExpenseAppP\api\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\jtpg9\Documents\Academy\Level4\Projects\ExpenseAppP\api\obj\Debug\net8.0\ref\API.dll
+C:\Users\jtpg9\Documents\Academy\Level4\Projects\ExpenseAppP\api\obj\Debug\net8.0\API.sourcelink.json
